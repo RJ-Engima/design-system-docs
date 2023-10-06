@@ -1,0 +1,1 @@
+(self.webpackChunkdsl_doc=self.webpackChunkdsl_doc||[]).push([[8048],{13383:function(e){e.exports=function(e){return{name:"ERB",subLanguage:"xml",contains:[e.COMMENT("<%#","%>"),{begin:"<%[%=-]?",end:"[%-]?%>",subLanguage:"ruby",excludeBegin:!0,excludeEnd:!0}]}}}}]);

@@ -1,0 +1,118 @@
+[
+  {
+      "title": "Accordion",
+      "link": "/components/accordions"
+  },
+  {
+      "title": "Alert",
+      "link": "/components/alerts"
+  },
+  {
+      "title": "Avatars",
+      "link": "/components/avatars"
+  },
+  {
+      "title": "Badge",
+      "link": "/components/badges"
+  },
+  {
+      "title": "BreadCrumbs",
+      "link": "/components/breadcrumbs"
+  },
+  {
+      "title": "Buttons",
+      "link": "/components/buttons"
+  },
+  {
+      "title": "CardView",
+      "link": "/components/cardview"
+  },
+  {
+      "title": "Checkbox",
+      "link": "/components/checkbox"
+  },
+  {
+      "title": "CountryPicker",
+      "link": "/components/countrypicker"
+  },
+  {
+      "title": "Datepicker",
+      "link": "/components/datepicker"
+  },
+  {
+      "title": "Drawer",
+      "link": "/components/drawer"
+  },
+  {
+      "title": "Dropdown",
+      "link": "/components/dropdown"
+  },
+  {
+      "title": "Fileupload",
+      "link": "/components/file-upload"
+  },
+  {
+      "title": "Inputs",
+      "link": "/components/inputs"
+  },
+  {
+      "title":"Modal",
+      "link": "/components/modal"
+  },
+  {
+      "title": "Otp",
+      "link": "/components/otp"
+  },
+  {
+      "title": "Radio Button",
+      "link": "/components/radio-button"
+  },
+  {
+      "title": "Range Slider",
+      "link": "/components/range-slider"
+  },
+  {
+      "title": "Searchinput",
+      "link": "/components/search-input"
+  },
+  {
+      "title": "Social Media Logos",
+      "link": "/components/social-media-logo"
+  },
+  {
+      "title": "Stepper",
+      "link": "/components/stepper"
+  },
+  {
+      "title": "Switches",
+      "link": "/components/switches"
+  },
+  {
+      "title": "Table",
+      "link": "/components/tables"
+  },
+  {
+      "title": "Tabs",
+      "link": "/components/tabs"
+  },
+  {
+      "title": "Tagify",
+      "link": "/components/tagify"
+  },
+  {
+      "title": "TelSelect",
+      "link": "/components/tel-select"
+  },
+  {
+      "title": "TextAreas",
+      "link": "/components/textarea"
+  },
+  {
+      "title": "Tooltip",
+      "link": "/components/tooltip"
+  },
+  {
+      "title": "TreeSelect",
+      "link": "/components/tree-select"
+  }
+]

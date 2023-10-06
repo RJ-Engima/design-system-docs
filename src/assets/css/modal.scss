@@ -1,0 +1,75 @@
+.docsModal.show{
+    .modal-dialog{
+        transform: none !important;
+    }
+}
+.docsModal{
+    width: calc(100% - 252px);
+    right: 0;
+    z-index: 9999;
+    margin-left: auto;
+    .modal-dialog.modal-sm{
+        max-width: 550px !important;
+    }
+    .modal-dialog.modal-md{
+        max-width: 690px !important;
+    }
+
+    .modal-dialog.modal-sm, .modal-dialog.modal-md, .modal-dialog.modal-lg {
+        background: unset !important;
+        border: unset;
+        box-shadow: unset !important;
+        .modal-content{
+            border-radius: 15px;
+            .modal-header{
+                border: unset;
+                border-bottom: unset !important;
+                padding: 10px 20px !important;
+                background-color: #f0f0f0;
+                border-top-left-radius: 15px;
+                border-top-right-radius: 15px;
+                .modal-title{
+                    font-size: 18px;
+                    font-weight: 600;
+                }
+            }
+            .modal-body{
+                background-color: #fff;
+                border-bottom-left-radius: 15px;
+                border-bottom-right-radius: 15px;
+                padding: 5px 20px 10px 20px !important;
+            }
+            .modal-footer{
+                border-top: unset;
+            }
+        }
+    }
+}
+.issueCloseModal{
+    .issuePrompt{
+        text-align: center;
+        p{
+            font-size: 16px;
+            margin: 0;
+            padding: 20px 0px;
+        }
+        .issuePromptBtns{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding-top: 10px;
+            .docsBtn{
+                padding: 5px 10px;
+                min-width: 100px;
+                margin: 0px 10px;
+                width: fit-content;
+                border-radius: 5px;
+                font-size: 16px;
+            }
+            .docsBtn.yes{
+                background-color: #fff;
+                border: 1px solid;
+            }
+        }
+    }
+}

@@ -1,0 +1,1 @@
+(self.webpackChunkdsl_doc=self.webpackChunkdsl_doc||[]).push([[1958],{8658:function(e){e.exports=function(e){return{name:"Julia REPL",contains:[{className:"meta",begin:/^julia>/,relevance:10,starts:{end:/^(?![ ]{6})/,subLanguage:"julia"},aliases:["jldoctest"]}]}}}}]);

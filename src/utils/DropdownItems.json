@@ -1,0 +1,147 @@
+[
+    {
+        "value": "Accordion",
+        "label": "Accordion",
+        "link": "/components/accordions"
+    },
+    {
+        "value": "Alert",
+        "label": "Alert",
+        "link": "/components/alerts"
+    },
+    {
+        "value": "Avatars",
+        "label": "Avatars",
+        "link": "/components/avatars"
+    },
+    {
+        "value": "Badge",
+        "label": "Badge",
+        "link": "/components/badges"
+    },
+    {
+        "value": "BreadCrumbs",
+        "label": "BreadCrumbs",
+        "link": "/components/breadcrumbs"
+    },
+    {
+        "value": "Buttons",
+        "label": "Buttons",
+        "link": "/components/buttons"
+    },
+    {
+        "value": "CardView",
+        "label": "CardView",
+        "link": "/components/cardview"
+    },
+    {
+        "value": "Checkbox",
+        "label": "Checkbox",
+        "link": "/components/checkbox"
+    },
+    {
+        "value": "CountryPicker",
+        "label": "CountryPicker",
+        "link": "/components/countrypicker"
+    },
+    {
+        "value": "Datepicker",
+        "label": "Datepicker",
+        "link": "/components/datepicker"
+    },
+    {
+        "value": "Drawer",
+        "label": "Drawer",
+        "link": "/components/drawer"
+    },
+    {
+        "value": "Dropdown",
+        "label": "Dropdown",
+        "link": "/components/dropdown"
+    },
+    {
+        "value": "Fileupload",
+        "label": "Fileupload",
+        "link": "/components/file-upload"
+    },
+    {
+        "value": "Inputs",
+        "label": "Inputs",
+        "link": "/components/inputs"
+    },
+    {
+        "value":"Modal",
+        "label":"Modal",
+        "link": "/components/modal"
+    },
+    {
+        "value": "Otp",
+        "label": "Otp",
+        "link": "/components/otp"
+    },
+    {
+        "value": "Radio Button",
+        "label": "Radio Button",
+        "link": "/components/radio-button"
+    },
+    {
+        "value": "Range Slider",
+        "label": "Range Slider",
+        "link": "/components/range-slider"
+    },
+    {
+        "value": "Searchinput",
+        "label": "Searchinput",
+        "link": "/components/search-input"
+    },
+    {
+        "value": "Social Media Logos",
+        "label": "Social Media Logos",
+        "link": "/components/social-media-logo"
+    },
+    {
+        "value": "Stepper",
+        "label": "Stepper",
+        "link": "/components/stepper"
+    },
+    {
+        "value": "Switches",
+        "label": "Switches",
+        "link": "/components/switches"
+    },
+    {
+        "value": "Table",
+        "label": "Table",
+        "link": "/components/tables"
+    },
+    {
+        "value": "Tabs",
+        "label": "Tabs",
+        "link": "/components/tabs"
+    },
+    {
+        "value": "Tagify",
+        "label": "Tagify",
+        "link": "/components/tagify"
+    },
+    {
+        "value": "TelSelect",
+        "label": "TelSelect",
+        "link": "/components/tel-select"
+    },
+    {
+        "value": "TextAreas",
+        "label": "TextAreas",
+        "link": "/components/textarea"
+    },
+    {
+        "value": "Tooltip",
+        "label": "Tooltip",
+        "link": "/components/tooltip"
+    },
+    {
+        "value": "TreeSelect",
+        "label": "TreeSelect",
+        "link": "/components/tree-select"
+    }
+]

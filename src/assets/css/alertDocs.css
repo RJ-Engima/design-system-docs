@@ -1,0 +1,51 @@
+/* @font-face {
+    font-family: demi-regular;
+    src: url(../../assets/fonts/Ilisarniq-Regular.ttf);
+  } */
+
+
+
+.alertTable{
+    border-spacing: 0 !important;
+    /* border: 1px solid !important; */
+    border-radius: 10px !important;
+    overflow: hidden !important;
+    box-shadow: rgba(17, 17, 26, 0.05) 0px 1px 0px, rgba(17, 17, 26, 0.1) 0px 0px 8px;
+}
+.alertParams{
+    background-color:var( --grey-shadow-10);
+    min-width: 150px;
+}
+.alertTable thead th{
+    padding: 10px 15px;
+    background-color:var(--brand-black);
+    color: var(--brand-white);
+    font-family: demi-regular;
+}
+.alertTable > tbody > tr > td{
+    padding: 10px 15px;
+    border: 0.5px solid rgba(17, 17, 26, 0.1) !important;
+    border-collapse: collapse !important;
+    font-family: demi-regular;
+}
+.alertTable > tbody > tr > td code{
+    color:#c21d00 !important;
+}
+.alertTable > thead th{
+    border: 0.5px solid var(--text-inactive);
+}
+
+.alertTypes{
+    display: flex;
+    align-items: baseline;
+}
+
+.MuiTable-root{
+    border-collapse: unset !important;
+}
+
+.classname {
+    display: initial;
+    color: var(--pecific_blue-shadow-100);
+    font-weight: 500;
+}

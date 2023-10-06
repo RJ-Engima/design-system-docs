@@ -1,0 +1,1 @@
+(self.webpackChunkdsl_doc=self.webpackChunkdsl_doc||[]).push([[6735],{59192:function(n){n.exports=function(n){return{aliases:["pycon"],contains:[{className:"meta",starts:{end:/ |$/,starts:{end:"$",subLanguage:"python"}},variants:[{begin:/^>>>(?=[ ]|$)/},{begin:/^\.\.\.(?=[ ]|$)/}]}]}}}}]);

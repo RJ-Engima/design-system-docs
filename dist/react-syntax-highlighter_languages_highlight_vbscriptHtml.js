@@ -1,0 +1,1 @@
+(self.webpackChunkdsl_doc=self.webpackChunkdsl_doc||[]).push([[8884],{31438:function(n){n.exports=function(n){return{name:"VBScript in HTML",subLanguage:"xml",contains:[{begin:"<%",end:"%>",subLanguage:"vbscript"}]}}}}]);
